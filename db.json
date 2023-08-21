@@ -11,6 +11,15 @@
       "password": "$2a$10$thTJ.Bm/BDcSQ1XLZkBrSu5aXmn83dMXJmE07aPod7tiWEEYiSw06",
       "username": "annabell",
       "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "email": "zzzrina@mail.com",
+      "password": "$2a$10$HmjAHxGgIY5SlBjBKzklc.kG7R/fcYJOaSNp3ktdDNX9Cr/RGSl9u",
+      "username": "zzMarina",
+      "id": 4
     }
   ],
   "products": [
@@ -2369,6 +2378,9 @@
         "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
       ],
       "id": 130
+    },
+    {
+      "id": 131
     }
   ],
   "recipes": [
@@ -2399,7 +2411,6 @@
         "Heat oven to 180C/160C fan/gas 4 and grease a shallow ovenproof dish about 35 x 24cm. Melt the butter in a non-stick frying pan, add the onions and fry for 10 mins, stirring frequently, until soft and starting to turn golden. Sprinkle over some seasoning and the sugar, stir again, then cook 5-10 mins more until golden. Meanwhile, heat the milk with the nutmeg, garlic, thyme and seasoning. When the mixture starts to boil, pour in the cream and turn off the heat.",
         "Quarter the celeriac and thinly slice, then arrange in the base of the dish. Pour over half the milk mixture, then spoon over the golden onions. Thinly slice the ends of the potatoes, reserving the middles. Pile the sliced potatoes into the dish, then thinly slice the reserved middle sections and arrange neatly on top. (By cutting the potatoes this way, you should have neat slices roughly all the same size for the top of the gratin.) Pour over the remaining milk mixture, scatter over the Parmesan and bake for 1 hr 30 mins until a knife easily cuts through the layers. Allow to rest for 10 mins before serving to allow the creamy sauce to soak into the potatoes."
       ],
-  
       "userId": 2,
       "createdAt": "2023-07-07"
     },
@@ -2467,7 +2478,6 @@
         "In a small saucepan gently heat the frozen berries, icing sugar and cinnamon until the sugar has dissolved. Remove from the heat, stir in the cassis, if using, and set aside to cool completely.",
         "Whip the doublecream and Greek yogurt until just holding it’s shape, ripple through the lemoncurd. Break the meringue nests into a glass bowl, or 8 individual glasses. Spoon over half the cream, then half the berries. Repeat with the remaining cream and berries. Serve immediately."
       ],
-      
       "userId": 1,
       "createdAt": "2023-02-23"
     },
@@ -2495,7 +2505,6 @@
       "method": [
         "Heat the oil in a wok. Add the ginger and garlic, then stir-fry briefly until just coloured. Add the prawns and the whites of the spring onions, and cook for a further 3 mins. Pour in the beaten egg, let it set for a couple of secs, then break it up and stir well to scramble. Add the cooked rice and stir-fry everything together for 10 mins. Add the rest of the spring onions, rice wine and soy, then toss everything together well. Serve immediately."
       ],
-    
       "userId": 1,
       "createdAt": "2023-04-22"
     },
@@ -2562,7 +2571,6 @@
         "Cut each turkey breast steak into three strips. Layer roughly half the turkey on top of the stuffing mix, filling any gaps like a jigsaw, but keeping the turkey in one thick layer, then season. Spread over a little more cranberry sauce, then top with the remaining stuffing, cranberry sauce and turkey in the same way, making sure there are no gaps between the layers. The parcel should be full to the top when you’re finished. Fold over the overhanging bacon and wrap the tin in foil. Can now be chilled for up to 2 days.",
         "Heat oven to 180C/160C fan/gas 4. Put the tin on a baking tray and cook for 1 hr 30 mins. Remove the tin from the oven and leave to cool for 10 mins. Carefully lift the parcel out of the tin, using the foil handles. Roll the parcel over onto a baking tray. Return to the oven for a further 15-20 mins until the outside is crisp and browning. Test the internal temperature with a thermometer, if you have one – it should read 75C when it’s ready. Or insert a metal skewer into the centre of the parcel and check it is piping hot. Cover loosely with foil and leave to rest for at least 15 mins before serving. Top with the reserved sage leaves, then slice. Leftovers will keep in the fridge for 2 days."
       ],
-    
       "userId": 1,
       "createdAt": "2023-05-2"
     },
@@ -2620,7 +2628,6 @@
         "Remove the beef from the fridge at least 30 mins before you are ready to cook it. Heat oven to 220C/200C fan/gas 7. Put the meat on a baking-parchment-lined ",
         " and roast for 30-40 mins, depending on how well done you like it. (To test how done the beef is, insert a digital thermometer into the centre it should read 50C for rare, 55C for medium rare and 60C for medium.) Leave to rest for 10-15 mins, then carefully slice with a very sharp knife and serve with the wine sauce. Scatter with extra thyme, if you like."
       ],
-     
       "userId": 1,
       "createdAt": "2023-06-24"
     },
@@ -2651,7 +2658,6 @@
         "Turn the dough out onto a lightly floured surface and divide into 4 pieces. With lightly floured hands, roll each piece into a sausage about 30cm long. Place 2 on each tray, well spaced apart. Bake for 25-30 mins until the dough has risen and spread and feels firm. It should still look pale. Remove from the oven, transfer to a wire rack for a few mins until cool enough to handle, then turn down the oven to 140C/fan 120C/gas 1.",
         "Using a bread knife, cut into slices about 1cm thick on the diagonal, then lay the slices flat on the baking sheets. The biscuits can be cooled and frozen flat on the sheet at this point, then bagged and frozen for up to 2 months. Bake for another 15 mins (20 mins if from frozen), turn over, then bake again for another 15 mins until dry and golden. Tip onto a wire rack to cool completely, then store in an airtight tin for up to one month, or pack into boxes or cellophane bags if giving as gifts straightaway."
       ],
-   
       "userId": 1,
       "createdAt": "2023-07-20"
     },
@@ -2685,7 +2691,6 @@
         "Heat oven to 200C/fan 180C/gas 6. Using a 7cm pastry cutter, stamp out 12 circles from the pastry. Use to line a 12-hole mini muffin tray, prick the base of the pastry with a fork, and bake for 10 mins. Remove from oven and cool on a wire tray. Repeat with remaining pastry.",
         "Meanwhile, cook the potato in boiling water until tender. Drain, mash with soured cream and seasoning, then stir through chives. Spoon 1-2 tsp of chilli mix into the pastry cases and top with a tsp of mash. Ruffle mash with a fork; return to the oven for 15 mins or until golden."
       ],
-    
       "userId": 1,
       "createdAt": "2023-07-24"
     },
@@ -2750,7 +2755,6 @@
         "For the sauce mix the flour with a little of the bouillon to make a very wet paste. Return the pan to the heat and add all the ingredients, including the flour mix and stir over a high heat until well mixed and thickened. Keep simmering for a good 10 mins then taste as it should now be tangy rather than vinegary. If it is too sharp return to the heat and boil a little longer.",
         "Carefully take the loaf from the tin and remove the paper. Scatter with thyme. If you're doing the Healthy Diet Plan, serve half in 2 thick slices with half the tomato sauce and chill the rest for another day, otherwise serve the whole recipe as a meal for four people."
       ],
-    
       "userId": 1,
       "createdAt": "2023-08-07"
     },
@@ -2798,7 +2802,6 @@
         "Heat oven to 200C/180C fan/gas 6. Wet your hands, push a piece of mozzarella into the centre of each meatball, then re-form the meat into a ball. Place on a baking tray and cook for 15-20 mins until they are browned and cooked through.",
         "Meanwhile, tip the sauce into a pan. Gently heat, letting it bubble and reduce a little. Once the meatballs are cooked, pop a mini skewer in each one and serve with the sauce to dip."
       ],
-     
       "userId": 1,
       "createdAt": "2023-08-07"
     },
@@ -2820,7 +2823,6 @@
       "method": [
         "Boil the potatoes for 10 mins until tender, then drain. Heat oven to 200C/180C fan/ gas 6. Drizzle half the oil over a flat, sturdy baking tray or baking dish. Using a potato masher, squash a sprig of rosemary into each potato on the tray so the masher leaves its mark and the potato splits around the edges. Drizzle the potatoes with the remaining oil, season with sea salt and roast for 50 mins or until golden around the edges."
       ],
-   
       "userId": 1,
       "createdAt": "2023-08-10"
     },
@@ -2870,7 +2872,6 @@
         "Make the shallots. Put the shallots in a small roasting tin, toss in the oil, scatter over a few thyme and sage sprigs, and season with salt and pepper. Roast for 25-30 mins, turning half way, until shallots are nicely caramelised.",
         "Make the gravy. Pour off any excess fat from the roasting tin but leave the juices and onions. Sprinkle in the flour, set tin over a medium heat and cook, stirring for a couple of mins to cook the flour, scraping up any sticky bits from the bottom of the tin. Gradually pour in the stock, along with any resting juices from the turkey, and continue to stir until slightly thickened. Simmer gently for about 10-15 mins or until reduced to your liking. Season with salt and pepper if needed. Strain gravy into a pan, warm through, pour into a jug and serve with the turkey. Serve the turkey surrounded with stuffing balls, roasted shallots, and thyme and sage sprigs."
       ],
-   
       "userId": 1,
       "createdAt": "2023-08-10"
     },
@@ -2897,7 +2898,6 @@
         "Heat oven to 220C/fan 200C/gas 7. Heat the oil in a frying pan, then soften the leeks for 5 mins. Line the base of a 28 x 18cm baking tin with greaseproof paper.",
         "Mix the mince, thyme, two-thirds of the breadcrumbs, leeks and egg together with a little seasoning, then tip into the tin. Press the mixture firmly into the tin, then ruffle the surface with a fork. Mix the remaining breadcrumbs and bacon together and scatter over the top. Cook for 15 mins, then finish under the grill until golden and crisp on top. Serve with boiled potatoes and carrots."
       ],
-    
       "userId": 1,
       "createdAt": "2023-08-10"
     },
@@ -2935,10 +2935,8 @@
         "Tip the whole shallots into the tin around the beef and toss them in the oil. Roast for 20-25 mins for rare, 35 mins for medium and 45 mins for well done. If you have a thick piece of meat, it may take a little longer. Ten mins before the end of cooking, stir the whole mushrooms around the pan, coating well in the oil and juices, then leave to roast alongside the meat and shallots. Leave the meat to rest on a board for 10-15 mins and keep the vegetables warm in a serving dish while you make the sauce.",
         "Place the tin back on the hob. Stir in the flour, mixing well into any oil in the pan, then very carefully pour over the brandy, making sure you dont pour straight from the bottle. Use a small whisk to stir in the brandy, scraping up all the lovely browned bits from the tin. When the brandy has nearly boiled away, pour over the strained mushroom liquid and beef stock. Cook for about 5 mins until the liquid just coats the back of a spoon, then stir in the mustard and creme frache. Season, sprinkle with parsley and pour into a gravy boat. Cut the beef into thick slices and serve with the vegetables, gravy and some Parmesan puffs, if you like."
       ],
-     
       "userId": 1,
       "createdAt": "2023-08-10"
     }
-
   ]
 }
