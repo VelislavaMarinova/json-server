@@ -7,182 +7,24 @@
       "id": 1
     },
     {
-      "email": "ssss@asd.bg",
-      "password": "$2a$10$xvENj33i05RAAw3ukWfDgetTyCKHEvQZfYgah1NVqySG4ZpFxen2e",
-      "username": "sss",
+      "email": "annabell_@abv.bg",
+      "password": "$2a$10$0iya.PYDjTIidJNCPUwOX.T1PJhzZf0f/ZBcHFaxf2j6U4YENBAUy",
+      "username": "Annabell",
       "id": 2
-    },
-    {
-      "email": "aaa@aaa.aa",
-      "password": "$2a$10$VqfMEZaSU/QsAVByRbknzeoUWuWCb6gBrQCoKdp5C74hU04iP/fd.",
-      "username": "aaa",
-      "id": 3
-    },
-    {
-      "email": "vvv@vvv.vv",
-      "password": "$2a$10$ijQYt2yLYtg3CtWsQ27s7ew7WIR0cV8CJ8/DLewkVj7Ix6IJSSAcm",
-      "username": "vvv",
-      "id": 4
-    },
-    {
-      "email": "qqq@qqq.qq",
-      "password": "$2a$10$61vPqbiagCzTlOgFuQRuDODEMrxc4tW.LqyD1LNJjQDvAbpSMeef.",
-      "username": "qqq",
-      "id": 5
-    },
-    {
-      "email": "rrr@rr.rr",
-      "password": "$2a$10$XIlwJP4D6YcRelU8XC2MrOzH.V4P62CsPuJbiDwwbkjRSdySbqS56",
-      "username": "rrr",
-      "id": 6
-    },
-    {
-      "email": "zzz@zzz.zz",
-      "password": "$2a$10$I0KJaAfQ3OZvvfOp.TG22uSZMkDnq/9fKEeQTdHQhjOhFcTNOlbI2",
-      "username": "zzz",
-      "id": 7
-    },
-    {
-      "email": "ccc@ccc.cc",
-      "password": "$2a$10$/awvRGxrOMNJG6yGs4eAmuMgz2uH5EiQyrlOFhjYEtf8d4Szyueq2",
-      "username": "ccc",
-      "id": 8
-    },
-    {
-      "email": "ddd@dd.dd",
-      "password": "$2a$10$ADkI1YRl6d2FM3Nyse4f/.RGCxCQumxtga3M0p4ufQK8z4mIEkHZy",
-      "username": "dddd",
-      "id": 9
     }
   ],
   "categories": [
     {
       "id": 1,
-      "category": "smartphones",
+      "category": "main-dishes",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 2,
-      "category": "laptops",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 3,
-      "category": "fragrances",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 4,
-      "category": "skincare",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 5,
-      "category": "groceries",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 6,
-      "category": "home-decoration",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 7,
-      "category": "furniture",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 8,
-      "category": "tops",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 9,
-      "category": "womens-dresses",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 10,
-      "category": "womens-shoes",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 11,
-      "category": "mens-shirts",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 12,
-      "category": "mens-shoes",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 13,
-      "category": "mens-watches",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 14,
-      "category": "womens-watches",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 15,
-      "category": "womens-bags",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 16,
-      "category": "womens-jewellery",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 17,
-      "category": "sunglasses",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 18,
-      "category": "automotive",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 19,
-      "category": "motorcycle",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    },
-    {
-      "id": 20,
-      "category": "lighting",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "title": "iPhone 9",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "discountPercentage": 12.96,
-      "rating": 4.69,
-      "stock": 94,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/1/1.jpg",
-        "https://i.dummyjson.com/data/products/1/2.jpg",
-        "https://i.dummyjson.com/data/products/1/3.jpg",
-        "https://i.dummyjson.com/data/products/1/4.jpg",
-        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
-      ]
     },
     {
       "id": 2,
       "title": "iPhone X",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
       "price": 899,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
@@ -204,43 +46,17 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-      ]
+      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
     },
     {
       "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "discountPercentage": 17.91,
-      "stock": 123,
-      "brand": "OPPO",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/4.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
-      ]
+      "category": "healthy-recipes",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
     },
     {
       "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 0,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg"
-      ]
+      "category": "drinks",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
     },
     {
       "id": 6,
@@ -264,7 +80,7 @@
       "title": "Samsung Galaxy Book",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
       "price": 1499,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
@@ -317,7 +133,7 @@
       "title": "HP Pavilion 15-DK1056WM",
       "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
       "price": 1099,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
@@ -368,7 +184,7 @@
       "title": "perfume Oil A2",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 10,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
@@ -436,7 +252,7 @@
       "title": "simple perfume Oil 6",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 18,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
@@ -1111,7 +927,7 @@
       "title": "Mornadi Velvet Bed",
       "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
       "price": 40,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 140,
       "brand": "Furniture Bed Set",
       "category": "furniture",
@@ -1182,7 +998,7 @@
       "title": "3 DOOR PORTABLE",
       "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
       "price": 41,
-      "discountPercentage": 0,
+      "discountPercentage":0,
       "stock": 68,
       "brand": "AmnaMart",
       "category": "furniture",
@@ -1935,9 +1751,7 @@
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
       "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/78/thumbnail.jpg"
-      ]
+      "images": ["https://i.dummyjson.com/data/products/78/thumbnail.jpg"]
     },
     {
       "id": 79,
@@ -1949,9 +1763,7 @@
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
       "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/79/1.jpg"
-      ]
+      "images": ["https://i.dummyjson.com/data/products/79/1.jpg"]
     },
     {
       "id": 80,
@@ -2397,7 +2209,7 @@
       "id": 1,
       "rating": 4,
       "review": "Beautiful",
-      "productId": 81,
+      "recipeId": 1,
       "userId": 1,
       "username": "Marina"
     },
@@ -2405,7 +2217,7 @@
       "id": 2,
       "rating": 4,
       "review": "Beautiful",
-      "productId": 1,
+      "recipeId": 2,
       "userId": 1,
       "username": "Marina"
     },
@@ -2413,7 +2225,7 @@
       "id": 3,
       "rating": 5,
       "review": "Beautiful",
-      "productId": 1,
+      "recipeId": 3,
       "userId": 2,
       "username": "annabell"
     },
@@ -2421,7 +2233,7 @@
       "id": 4,
       "rating": 5,
       "review": "Beautiful",
-      "productId": 2,
+      "recipeId": 4,
       "userId": 2,
       "username": "annabell"
     },
@@ -2429,7 +2241,7 @@
       "id": 5,
       "rating": 3,
       "review": "some review",
-      "productId": 82,
+      "recipeId": 5,
       "userId": 1,
       "username": "Marina"
     },
@@ -2437,23 +2249,15 @@
       "id": 6,
       "rating": 5,
       "review": "some review",
-      "productId": 84,
+      "recipeId": 6,
       "userId": 1,
       "username": "Marina"
-    },
-    {
-      "id": 7,
-      "rating": 2,
-      "review": "came broken",
-      "productId": 81,
-      "userId": 2,
-      "username": "annabell"
     },
     {
       "id": 8,
       "rating": 3,
       "review": "came broken",
-      "productId": 7,
+      "recipeId": 7,
       "userId": 2,
       "username": "annabell"
     },
@@ -2461,7 +2265,7 @@
       "id": 9,
       "rating": 3,
       "review": "some review",
-      "productId": 8,
+      "recipeId": 8,
       "userId": 2,
       "username": "annabell"
     },
@@ -2469,7 +2273,7 @@
       "id": 10,
       "rating": 5,
       "review": "some review",
-      "productId": 9,
+      "recipeId": 9,
       "userId": 1,
       "username": "Marina"
     },
@@ -2477,7 +2281,7 @@
       "id": 11,
       "rating": 4,
       "review": "some review",
-      "productId": 10,
+      "recipeId": 10,
       "userId": 1,
       "username": "Marina"
     },
@@ -2485,7 +2289,7 @@
       "id": 12,
       "rating": 5,
       "review": "some review",
-      "productId": 11,
+      "recipeId": 11,
       "userId": 1,
       "username": "Marina"
     },
@@ -2493,7 +2297,7 @@
       "id": 13,
       "rating": 4,
       "review": "some review",
-      "productId": 12,
+      "recipeId": 12,
       "userId": 1,
       "username": "Marina"
     },
@@ -2501,7 +2305,7 @@
       "id": 14,
       "rating": 3,
       "review": "some review",
-      "productId": 13,
+      "recipeId": 13,
       "userId": 1,
       "username": "Marina"
     },
@@ -2509,7 +2313,7 @@
       "id": 15,
       "rating": 3,
       "review": "some review",
-      "productId": 14,
+      "recipeId": 14,
       "userId": 1,
       "username": "Marina"
     },
@@ -2517,7 +2321,7 @@
       "id": 16,
       "rating": 4,
       "review": "some review",
-      "productId": 15,
+      "recipeId": 15,
       "userId": 1,
       "username": "Marina"
     },
@@ -2525,7 +2329,7 @@
       "id": 17,
       "rating": 5,
       "review": "some review",
-      "productId": 16,
+      "recipeId": 16,
       "userId": 1,
       "username": "Marina"
     },
@@ -2533,7 +2337,7 @@
       "id": 18,
       "rating": 3,
       "review": "some review",
-      "productId": 17,
+      "recipeId": 17,
       "userId": 1,
       "username": "Marina"
     },
@@ -2541,7 +2345,7 @@
       "id": 19,
       "rating": 4,
       "review": "some review",
-      "productId": 18,
+      "recipeId": 18,
       "userId": 1,
       "username": "Marina"
     },
@@ -2549,7 +2353,7 @@
       "id": 20,
       "rating": 5,
       "review": "some review",
-      "productId": 19,
+      "recipeId": 19,
       "userId": 1,
       "username": "Marina"
     },
@@ -2813,7 +2617,7 @@
       "id": 52,
       "rating": 4,
       "review": "some review",
-      "productId": 47,
+      "productId":47,
       "userId": 1,
       "username": "Marina"
     },
@@ -2829,7 +2633,7 @@
       "id": 54,
       "rating": 2,
       "review": "some review",
-      "productId": 50,
+      "productId":50,
       "userId": 1,
       "username": "Marina"
     },
@@ -2837,7 +2641,7 @@
       "id": 55,
       "rating": 5,
       "review": "some review",
-      "productId": 52,
+      "productId":52,
       "userId": 2,
       "username": "annabell"
     },
@@ -3045,7 +2849,7 @@
       "id": 71,
       "rating": 5,
       "review": "some review",
-      "productId": 92,
+      "productId":92,
       "userId": 2,
       "username": "annabell"
     },
@@ -3096,79 +2900,8 @@
       "productId": 104,
       "userId": 2,
       "username": "annabell"
-    },
-    {
-      "rating": 3,
-      "review": "wertwerqterteqrte",
-      "productId": 81,
-      "userId": 2,
-      "username": "annabell",
-      "id": 78
-    },
-    {
-      "rating": 5,
-      "review": "wertwerqterteqrte",
-      "productId": 82,
-      "userId": 2,
-      "username": "annabell",
-      "id": 78
-    },
-    {
-      "rating": 5,
-      "review": "kghhu",
-      "productId": 85,
-      "userId": 2,
-      "username": "annabell",
-      "id": 79
-    },
-    {
-      "rating": 5,
-      "review": "fhfdyhf",
-      "productId": 101,
-      "userId": 2,
-      "username": "annabell",
-      "id": 80
-    },
-    {
-      "rating": "1",
-      "review": "q1qqq",
-      "productId": 17,
-      "userId": 9,
-      "username": "dddd",
-      "id": 81
-    },
-    {
-      "rating": "2",
-      "review": "asdasdasd",
-      "productId": 1,
-      "userId": 9,
-      "username": "dddd",
-      "id": 82
-    },
-    {
-      "rating": "1",
-      "review": "asas",
-      "productId": 11,
-      "userId": 9,
-      "username": "dddd",
-      "id": 83
-    },
-    {
-      "rating": "3",
-      "review": "dasdasd",
-      "productId": 31,
-      "userId": 6,
-      "username": "rrr",
-      "id": 84
-    },
-    {
-      "rating": "1",
-      "review": "dsfsfds",
-      "productId": 56,
-      "userId": 6,
-      "username": "rrr",
-      "id": 85
     }
+
   ],
   "recipes": [
     {
@@ -3198,8 +2931,8 @@
         "Heat oven to 180C/160C fan/gas 4 and grease a shallow ovenproof dish about 35 x 24cm. Melt the butter in a non-stick frying pan, add the onions and fry for 10 mins, stirring frequently, until soft and starting to turn golden. Sprinkle over some seasoning and the sugar, stir again, then cook 5-10 mins more until golden. Meanwhile, heat the milk with the nutmeg, garlic, thyme and seasoning. When the mixture starts to boil, pour in the cream and turn off the heat.",
         "Quarter the celeriac and thinly slice, then arrange in the base of the dish. Pour over half the milk mixture, then spoon over the golden onions. Thinly slice the ends of the potatoes, reserving the middles. Pile the sliced potatoes into the dish, then thinly slice the reserved middle sections and arrange neatly on top. (By cutting the potatoes this way, you should have neat slices roughly all the same size for the top of the gratin.) Pour over the remaining milk mixture, scatter over the Parmesan and bake for 1 hr 30 mins until a knife easily cuts through the layers. Allow to rest for 10 mins before serving to allow the creamy sauce to soak into the potatoes."
       ],
-      "userId": 2,
-      "createdAt": "2023-07-07"
+      "userId": 1,
+      "owner": "Marina"
     },
     {
       "id": 2,
@@ -3239,7 +2972,7 @@
         "On the day, steam for 1 hr before turning out, decorating with holly and serving with extra-thick double cream or vanilla ice cream. Alternatively, try my Orange custard cream (below)."
       ],
       "userId": 1,
-      "createdAt": "2023-04-07"
+      "owner": "Marina"
     },
     {
       "id": 3,
@@ -3266,7 +2999,7 @@
         "Whip the doublecream and Greek yogurt until just holding it’s shape, ripple through the lemoncurd. Break the meringue nests into a glass bowl, or 8 individual glasses. Spoon over half the cream, then half the berries. Repeat with the remaining cream and berries. Serve immediately."
       ],
       "userId": 1,
-      "createdAt": "2023-02-23"
+      "owner": "Marina"
     },
     {
       "id": 4,
@@ -3293,7 +3026,7 @@
         "Heat the oil in a wok. Add the ginger and garlic, then stir-fry briefly until just coloured. Add the prawns and the whites of the spring onions, and cook for a further 3 mins. Pour in the beaten egg, let it set for a couple of secs, then break it up and stir well to scramble. Add the cooked rice and stir-fry everything together for 10 mins. Add the rest of the spring onions, rice wine and soy, then toss everything together well. Serve immediately."
       ],
       "userId": 1,
-      "createdAt": "2023-04-22"
+      "owner": "Marina"
     },
     {
       "id": 5,
@@ -3327,9 +3060,8 @@
         "While the vegetables are roasting, stir together the stock, curry paste, chilli, saffron and mustard seeds.",
         "Mix the rice and green beans with the vegetables in the tin, then pour over the stock mixture. Lower the oven to 190C/gas 5/fan 190C. Cover the dish tightly with foil and bake for 30 minutes until the rice is tender and the liquid has been absorbed. Stir in the lemon juice and check the seasoning, then scatter over the coriander and cashew nuts. Serve with a pile of poppadums and a bowl of raita."
       ],
-      "author": "Marina",
       "userId": 1,
-      "createdAt": "2023-03-3"
+      "owner": "Marina"
     },
     {
       "id": 6,
@@ -3359,7 +3091,7 @@
         "Heat oven to 180C/160C fan/gas 4. Put the tin on a baking tray and cook for 1 hr 30 mins. Remove the tin from the oven and leave to cool for 10 mins. Carefully lift the parcel out of the tin, using the foil handles. Roll the parcel over onto a baking tray. Return to the oven for a further 15-20 mins until the outside is crisp and browning. Test the internal temperature with a thermometer, if you have one – it should read 75C when it’s ready. Or insert a metal skewer into the centre of the parcel and check it is piping hot. Cover loosely with foil and leave to rest for at least 15 mins before serving. Top with the reserved sage leaves, then slice. Leftovers will keep in the fridge for 2 days."
       ],
       "userId": 1,
-      "createdAt": "2023-05-2"
+      "owner": "Marina"
     },
     {
       "id": 7,
@@ -3383,7 +3115,7 @@
         "Fill a highball glass with ice and pour the advocaat and ginger syrup into a cocktail shaker. Shake well, pour into the glasses, top with Babycham and serve."
       ],
       "userId": 1,
-      "createdAt": "2023-06-216"
+      "owner": "Marina"
     },
     {
       "id": 8,
@@ -3416,7 +3148,7 @@
         " and roast for 30-40 mins, depending on how well done you like it. (To test how done the beef is, insert a digital thermometer into the centre it should read 50C for rare, 55C for medium rare and 60C for medium.) Leave to rest for 10-15 mins, then carefully slice with a very sharp knife and serve with the wine sauce. Scatter with extra thyme, if you like."
       ],
       "userId": 1,
-      "createdAt": "2023-06-24"
+      "owner": "Marina"
     },
     {
       "id": 9,
@@ -3446,7 +3178,7 @@
         "Using a bread knife, cut into slices about 1cm thick on the diagonal, then lay the slices flat on the baking sheets. The biscuits can be cooled and frozen flat on the sheet at this point, then bagged and frozen for up to 2 months. Bake for another 15 mins (20 mins if from frozen), turn over, then bake again for another 15 mins until dry and golden. Tip onto a wire rack to cool completely, then store in an airtight tin for up to one month, or pack into boxes or cellophane bags if giving as gifts straightaway."
       ],
       "userId": 1,
-      "createdAt": "2023-07-20"
+      "owner": "Marina"
     },
     {
       "id": 10,
@@ -3479,7 +3211,7 @@
         "Meanwhile, cook the potato in boiling water until tender. Drain, mash with soured cream and seasoning, then stir through chives. Spoon 1-2 tsp of chilli mix into the pastry cases and top with a tsp of mash. Ruffle mash with a fork; return to the oven for 15 mins or until golden."
       ],
       "userId": 1,
-      "createdAt": "2023-07-24"
+      "owner": "Marina"
     },
     {
       "id": 11,
@@ -3507,9 +3239,8 @@
         "Heat oven to 190C/fan 170C/gas 5. Put the salmon fillets in a shallow ovenproof dish in a single layer. Roughly crush the peppercorns with a pestle and mortar, or tip into a cup and crush with the end of a rolling pin. Mix with the paprika, lime zest and a little sea salt. Brush the salmon lightly with oil, then sprinkle over the pepper mix. Bake for 12-15 mins until the salmon is just cooked.",
         "Meanwhile, tip the chickpeas into a colander, rinse well under cold running water, then drain. Heat the oil in a pan, add the garlic, then gently cook for 5 mins without browning. Add the chickpeas and stock, then warm through. Crush the chickpeas lightly with a potato masher, then add the spinach and stir well until the leaves are wilted. Add the lime juice and some salt and pepper, then heat through. Serve with the salmon."
       ],
-      "author": "Marina",
       "userId": 1,
-      "createdAt": "2023-08-07"
+      "owner": "Marina"
     },
     {
       "id": 12,
@@ -3543,7 +3274,7 @@
         "Carefully take the loaf from the tin and remove the paper. Scatter with thyme. If you're doing the Healthy Diet Plan, serve half in 2 thick slices with half the tomato sauce and chill the rest for another day, otherwise serve the whole recipe as a meal for four people."
       ],
       "userId": 1,
-      "createdAt": "2023-08-07"
+      "owner": "Marina"
     },
     {
       "id": 13,
@@ -3568,7 +3299,7 @@
         "Divide the smoked salmon between 4 plates. Toss the fennel, red onion, lime juice, white wine vinegar, olive oil and a little black pepper. Arrange over the salmon and serve."
       ],
       "userId": 1,
-      "createdAt": "2023-08-07"
+      "owner": "Marina"
     },
     {
       "id": 14,
@@ -3590,7 +3321,7 @@
         "Meanwhile, tip the sauce into a pan. Gently heat, letting it bubble and reduce a little. Once the meatballs are cooked, pop a mini skewer in each one and serve with the sauce to dip."
       ],
       "userId": 1,
-      "createdAt": "2023-08-07"
+      "owner": "Marina"
     },
     {
       "id": 15,
@@ -3611,7 +3342,7 @@
         "Boil the potatoes for 10 mins until tender, then drain. Heat oven to 200C/180C fan/ gas 6. Drizzle half the oil over a flat, sturdy baking tray or baking dish. Using a potato masher, squash a sprig of rosemary into each potato on the tray so the masher leaves its mark and the potato splits around the edges. Drizzle the potatoes with the remaining oil, season with sea salt and roast for 50 mins or until golden around the edges."
       ],
       "userId": 1,
-      "createdAt": "2023-08-10"
+      "owner": "Marina"
     },
     {
       "id": 16,
@@ -3660,7 +3391,7 @@
         "Make the gravy. Pour off any excess fat from the roasting tin but leave the juices and onions. Sprinkle in the flour, set tin over a medium heat and cook, stirring for a couple of mins to cook the flour, scraping up any sticky bits from the bottom of the tin. Gradually pour in the stock, along with any resting juices from the turkey, and continue to stir until slightly thickened. Simmer gently for about 10-15 mins or until reduced to your liking. Season with salt and pepper if needed. Strain gravy into a pan, warm through, pour into a jug and serve with the turkey. Serve the turkey surrounded with stuffing balls, roasted shallots, and thyme and sage sprigs."
       ],
       "userId": 1,
-      "createdAt": "2023-08-10"
+      "owner": "Marina"
     },
     {
       "id": 17,
@@ -3686,7 +3417,7 @@
         "Mix the mince, thyme, two-thirds of the breadcrumbs, leeks and egg together with a little seasoning, then tip into the tin. Press the mixture firmly into the tin, then ruffle the surface with a fork. Mix the remaining breadcrumbs and bacon together and scatter over the top. Cook for 15 mins, then finish under the grill until golden and crisp on top. Serve with boiled potatoes and carrots."
       ],
       "userId": 1,
-      "createdAt": "2023-08-10"
+      "owner": "Marina"
     },
     {
       "id": 18,
@@ -3725,7 +3456,5 @@
       "userId": 1,
       "createdAt": "2023-08-10"
     }
-  ],
-"customers":[],
-"addressBook":[]
+  ]
 }
