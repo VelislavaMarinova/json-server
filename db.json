@@ -7,19 +7,154 @@
       "id": 1
     },
     {
-      "email": "annabell@abv.bg",
-      "password": "$2a$10$thTJ.Bm/BDcSQ1XLZkBrSu5aXmn83dMXJmE07aPod7tiWEEYiSw06",
-      "username": "annabell",
+      "email": "ssss@asd.bg",
+      "password": "$2a$10$xvENj33i05RAAw3ukWfDgetTyCKHEvQZfYgah1NVqySG4ZpFxen2e",
+      "username": "sss",
       "id": 2
     },
     {
+      "email": "aaa@aaa.aa",
+      "password": "$2a$10$VqfMEZaSU/QsAVByRbknzeoUWuWCb6gBrQCoKdp5C74hU04iP/fd.",
+      "username": "aaa",
       "id": 3
     },
     {
-      "email": "zzzrina@mail.com",
-      "password": "$2a$10$HmjAHxGgIY5SlBjBKzklc.kG7R/fcYJOaSNp3ktdDNX9Cr/RGSl9u",
-      "username": "zzMarina",
+      "email": "vvv@vvv.vv",
+      "password": "$2a$10$ijQYt2yLYtg3CtWsQ27s7ew7WIR0cV8CJ8/DLewkVj7Ix6IJSSAcm",
+      "username": "vvv",
       "id": 4
+    },
+    {
+      "email": "qqq@qqq.qq",
+      "password": "$2a$10$61vPqbiagCzTlOgFuQRuDODEMrxc4tW.LqyD1LNJjQDvAbpSMeef.",
+      "username": "qqq",
+      "id": 5
+    },
+    {
+      "email": "rrr@rr.rr",
+      "password": "$2a$10$XIlwJP4D6YcRelU8XC2MrOzH.V4P62CsPuJbiDwwbkjRSdySbqS56",
+      "username": "rrr",
+      "id": 6
+    },
+    {
+      "email": "zzz@zzz.zz",
+      "password": "$2a$10$I0KJaAfQ3OZvvfOp.TG22uSZMkDnq/9fKEeQTdHQhjOhFcTNOlbI2",
+      "username": "zzz",
+      "id": 7
+    },
+    {
+      "email": "ccc@ccc.cc",
+      "password": "$2a$10$/awvRGxrOMNJG6yGs4eAmuMgz2uH5EiQyrlOFhjYEtf8d4Szyueq2",
+      "username": "ccc",
+      "id": 8
+    },
+    {
+      "email": "ddd@dd.dd",
+      "password": "$2a$10$ADkI1YRl6d2FM3Nyse4f/.RGCxCQumxtga3M0p4ufQK8z4mIEkHZy",
+      "username": "dddd",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "smartphones",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 2,
+      "category": "laptops",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 3,
+      "category": "fragrances",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 4,
+      "category": "skincare",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 5,
+      "category": "groceries",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 6,
+      "category": "home-decoration",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 7,
+      "category": "furniture",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 8,
+      "category": "tops",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 9,
+      "category": "womens-dresses",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 10,
+      "category": "womens-shoes",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 11,
+      "category": "mens-shirts",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 12,
+      "category": "mens-shoes",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 13,
+      "category": "mens-watches",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 14,
+      "category": "womens-watches",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 15,
+      "category": "womens-bags",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 16,
+      "category": "womens-jewellery",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 17,
+      "category": "sunglasses",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 18,
+      "category": "automotive",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 19,
+      "category": "motorcycle",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
+    },
+    {
+      "id": 20,
+      "category": "lighting",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit omnis facilis possimus, iusto minima itaque velit esse! Nisi, quos aut."
     }
   ],
   "products": [
@@ -47,7 +182,7 @@
       "title": "iPhone X",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
       "price": 899,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
@@ -69,7 +204,9 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
+      "images": [
+        "https://i.dummyjson.com/data/products/3/1.jpg"
+      ]
     },
     {
       "id": 4,
@@ -127,7 +264,7 @@
       "title": "Samsung Galaxy Book",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
       "price": 1499,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
@@ -180,7 +317,7 @@
       "title": "HP Pavilion 15-DK1056WM",
       "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
       "price": 1099,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
@@ -231,7 +368,7 @@
       "title": "perfume Oil A2",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 10,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
@@ -299,7 +436,7 @@
       "title": "simple perfume Oil 6",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 18,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
@@ -974,7 +1111,7 @@
       "title": "Mornadi Velvet Bed",
       "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
       "price": 40,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 140,
       "brand": "Furniture Bed Set",
       "category": "furniture",
@@ -1045,7 +1182,7 @@
       "title": "3 DOOR PORTABLE",
       "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
       "price": 41,
-      "discountPercentage":0,
+      "discountPercentage": 0,
       "stock": 68,
       "brand": "AmnaMart",
       "category": "furniture",
@@ -1798,7 +1935,9 @@
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
       "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/78/thumbnail.jpg"]
+      "images": [
+        "https://i.dummyjson.com/data/products/78/thumbnail.jpg"
+      ]
     },
     {
       "id": 79,
@@ -1810,7 +1949,9 @@
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
       "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/79/1.jpg"]
+      "images": [
+        "https://i.dummyjson.com/data/products/79/1.jpg"
+      ]
     },
     {
       "id": 80,
@@ -2672,7 +2813,7 @@
       "id": 52,
       "rating": 4,
       "review": "some review",
-      "productId":47,
+      "productId": 47,
       "userId": 1,
       "username": "Marina"
     },
@@ -2688,7 +2829,7 @@
       "id": 54,
       "rating": 2,
       "review": "some review",
-      "productId":50,
+      "productId": 50,
       "userId": 1,
       "username": "Marina"
     },
@@ -2696,7 +2837,7 @@
       "id": 55,
       "rating": 5,
       "review": "some review",
-      "productId":52,
+      "productId": 52,
       "userId": 2,
       "username": "annabell"
     },
@@ -2904,7 +3045,7 @@
       "id": 71,
       "rating": 5,
       "review": "some review",
-      "productId":92,
+      "productId": 92,
       "userId": 2,
       "username": "annabell"
     },
@@ -2955,8 +3096,79 @@
       "productId": 104,
       "userId": 2,
       "username": "annabell"
+    },
+    {
+      "rating": 3,
+      "review": "wertwerqterteqrte",
+      "productId": 81,
+      "userId": 2,
+      "username": "annabell",
+      "id": 78
+    },
+    {
+      "rating": 5,
+      "review": "wertwerqterteqrte",
+      "productId": 82,
+      "userId": 2,
+      "username": "annabell",
+      "id": 78
+    },
+    {
+      "rating": 5,
+      "review": "kghhu",
+      "productId": 85,
+      "userId": 2,
+      "username": "annabell",
+      "id": 79
+    },
+    {
+      "rating": 5,
+      "review": "fhfdyhf",
+      "productId": 101,
+      "userId": 2,
+      "username": "annabell",
+      "id": 80
+    },
+    {
+      "rating": "1",
+      "review": "q1qqq",
+      "productId": 17,
+      "userId": 9,
+      "username": "dddd",
+      "id": 81
+    },
+    {
+      "rating": "2",
+      "review": "asdasdasd",
+      "productId": 1,
+      "userId": 9,
+      "username": "dddd",
+      "id": 82
+    },
+    {
+      "rating": "1",
+      "review": "asas",
+      "productId": 11,
+      "userId": 9,
+      "username": "dddd",
+      "id": 83
+    },
+    {
+      "rating": "3",
+      "review": "dasdasd",
+      "productId": 31,
+      "userId": 6,
+      "username": "rrr",
+      "id": 84
+    },
+    {
+      "rating": "1",
+      "review": "dsfsfds",
+      "productId": 56,
+      "userId": 6,
+      "username": "rrr",
+      "id": 85
     }
-
   ],
   "recipes": [
     {
@@ -3513,5 +3725,7 @@
       "userId": 1,
       "createdAt": "2023-08-10"
     }
-  ]
+  ],
+"customers":[],
+"addressBook":[]
 }
