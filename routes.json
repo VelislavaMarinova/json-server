@@ -2,8 +2,8 @@
     "/users*": "/664/users$1",
     "/products*": "/664/products$1",
     "/recipes*": "/664/recipes$1",
-    "/customers*": "/664/recipes$1",
-    "/guestCustomers*": "/664/recipes$1",
-    "/addressBook*": "/664/recipes$1"
-
+    "/customers*": "/664/customers$1",
+    "/guestCustomers*": "/664/guestCustomers$1",
+    "/addressBook*": "/664/addressBook$1",
+    "/shippingAndBillingAddress": "/664/shippingAndBillingAddress$1"
   }
