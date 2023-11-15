@@ -3,7 +3,7 @@
     "/products*": "/664/products$1",
     "/recipes*": "/664/recipes$1",
     "/customers*": "/664/recipes$1",
-    "/addressBook*": "/664/recipes$1",
+    "/guestCustomers*": "/664/recipes$1",
+    "/addressBook*": "/664/recipes$1"
 
-   
   }
